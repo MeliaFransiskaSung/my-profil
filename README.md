@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeliaFransiskaSung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeliaFransiskaSung&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MeliaFransiskaSung&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
