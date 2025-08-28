@@ -47,8 +47,9 @@
   <a href="https://www.linkedin.com/in/melia-fransiska-687739337/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
   </a>
-  <a href="https://www.instagram.com/mellya_fs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="instagram" width="50" height="50"/></a>
-  </a>
+  <a href="https://www.instagram.com/mellya_fs/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" width="50" height="50"/>
+</a>
 </p>
 
 ---
